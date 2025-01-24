@@ -1,11 +1,13 @@
 
-[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed)](https://T-E-E-N-A.io)
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)](https://T-E-E-N-A.io)
+
 
 <p align="center">
-    <a href="https://github.com/t-e-e-n-a/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Teena%20Agarwal!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&center=true&width=440&height=45&color=8B008B&vleft=true&size=22"></a>
+    <a href="https://github.com/t-e-e-n-a/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Teena!;Passionate+about+Exploring+New+Coding+Languages;Coding+Enthusiast+❤;Eager+to+Learn+New+Technologies.&font=Fira+Code&center=true&width=600&height=60&color=8B008B&vleft=true&size=24&pause=1000&repeat=true&background=000000&color=00FF00&vCenter=true&width=700&height=50&duration=4000">
+    </a>
 </p>
 <h3 align="center">A passionate developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 <h3 align="left">Connect with me:</h3>
